@@ -1,0 +1,15 @@
+App: Laos Travel
+Developer: STLSMV Tech Co., Ltd.
+
+To delete your account:
+1. Open the Laos Travel app
+2. Go to Profile > Account Settings
+3. Tap “Delete Account” and confirm
+
+Deleted Data:
+- Personal info (name, email, phone)
+- Booking history
+- Saved favorites
+
+Retained:
+- Legal/compliance-related records (e.g., invoices) for up to 6 months
